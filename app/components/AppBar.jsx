@@ -46,7 +46,7 @@ const CustomAppBar = ({ handleDrawerToggle }) => {
           width={30}
           height={30}
         />
-        <TitleTypography variant="h6">MediaPipe Studio</TitleTypography>
+        <TitleTypography variant="h6">Nursery Vision Management</TitleTypography>
         {!isMobile && (
           <>
             <IconButton color="inherit">
